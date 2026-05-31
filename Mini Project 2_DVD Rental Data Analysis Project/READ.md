@@ -1,3 +1,10 @@
+# 🎬 DVD Rental Data Analysis Project
+
+## 📌 Project Overview
+Project ini bertujuan untuk menganalisis performa bisnis DVD Rental menggunakan data transaksi penyewaan film. Analisis dilakukan melalui proses SQL JOIN, Data Cleaning, Exploratory Data Analysis (EDA), dan Data Visualization untuk menghasilkan insight bisnis yang dapat membantu perusahaan memahami perilaku pelanggan, performa penjualan, serta faktor-faktor yang memengaruhi pendapatan.
+
+Dataset yang digunakan merupakan DVD Rental Database yang terdiri dari beberapa tabel relasional seperti customer, payment, rental, inventory, film, category, store, city, dan country.
+
 ## 👥 Team Members
 **👨‍💻 Kelompok 1 — DVD Rental Data Analysis Project**
 | Name |
